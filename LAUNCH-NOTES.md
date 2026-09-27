@@ -60,3 +60,8 @@ where a fact came from a third-party listing it is noted here so it can be verif
 - Proposed domain: **kadyno1braiding.com** (used for canonical, Open Graph, sitemap, robots and llms.txt).
 - After launch: submit the sitemap in Google Search Console, update the Google Business Profile, Booksy and Instagram
   website fields, and request a few new Google reviews linking to the site.
+
+
+## Live preview domain (updated 27 Sep 2026)
+The site is live at https://kady-no1-hair-braiding-website.netlify.app/ and every canonical URL, Open Graph/Twitter tag, JSON-LD URL, sitemap.xml, robots.txt and llms.txt now points there, so text-message and social link previews show this address.
+When the owner's own domain (kadyno1braiding.com) is connected in Netlify, find-and-replace `kady-no1-hair-braiding-website.netlify.app` with `kadyno1braiding.com` across the .html/.xml/.txt/.toml files, then redeploy.

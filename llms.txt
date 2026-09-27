@@ -8,7 +8,7 @@
 - Booking: https://booksy.com/en-us/1362588_kady-no1-hair-braiding-llc_braids-locs_134575_richmond
 - Instagram: https://www.instagram.com/kadyno1hairbraiding/ (@kadyno1hairbraiding)
 - Facebook: https://www.facebook.com/kadyno1hairbraiding/
-- Website: https://kadyno1braiding.com/
+- Website: https://kady-no1-hair-braiding-website.netlify.app/
 
 ## Hours
 - Monday to Friday: 8am to 8pm
@@ -72,8 +72,8 @@ Braiding hair is provided for most braid, twist and loc styles unless noted.
 - Do you braid kids and men? Yes: kids' cornrows, kids' box braids and men's cornrows.
 
 ## Pages
-- Home: https://kadyno1braiding.com/
-- Styles and prices: https://kadyno1braiding.com/styles.html
-- Gallery: https://kadyno1braiding.com/gallery.html
-- Visit, hours and policies: https://kadyno1braiding.com/visit.html
-- Contact: https://kadyno1braiding.com/contact.html
+- Home: https://kady-no1-hair-braiding-website.netlify.app/
+- Styles and prices: https://kady-no1-hair-braiding-website.netlify.app/styles.html
+- Gallery: https://kady-no1-hair-braiding-website.netlify.app/gallery.html
+- Visit, hours and policies: https://kady-no1-hair-braiding-website.netlify.app/visit.html
+- Contact: https://kady-no1-hair-braiding-website.netlify.app/contact.html

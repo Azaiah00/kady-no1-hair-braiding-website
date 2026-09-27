@@ -14,4 +14,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://kadyno1braiding.com/sitemap.xml
+Sitemap: https://kady-no1-hair-braiding-website.netlify.app/sitemap.xml
